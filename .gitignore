@@ -1,0 +1,25 @@
+# common ignores for git
+
+# in common
+
+# C/C++ object files
+*.o
+*.obj
+
+# C/C++ Precompiled Headers
+*.gch
+*.pch
+
+# C/C++ exe files
+*.out
+
+# Java class file
+*.class
+
+# generic files
+*~
+*.lock
+*.out
+*.swp
+
+# .gitignore
