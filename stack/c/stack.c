@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 typedef struct stack {
-    // 推疊 top 指標；指向下一個存放資料的位置
+    // 堆疊 top 指標；指向下一個存放資料的位置
     int top;
     // 一維陣列，用來存放堆疊內容
     int *content_;
